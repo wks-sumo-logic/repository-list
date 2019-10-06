@@ -9,21 +9,21 @@ areas of DevOps, Security, Data Analytics, as well as Automation and Testing.
 List of Projects
 ================
 
-*DevOps Focus*
+          Suggested Settings for Individual Installed Collector Sources:
 
-[SumoLogic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets)
+| *DevOps Focus*                         |
+|:-------------------------------------- |
+| [SumoLogic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
+| [Health Check Wrapper](https://github.com/wks-sumo-logic/sumologic-hcwrapper) |
 
-[Health Check Wrapper](https://github.com/wks-sumo-logic/sumologic-hcwrapper)
+| *Production Integration*               |
+|:-------------------------------------- |
+| [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
+| [Splunk Integration](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
 
-*Production Integration*
-
-[Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync)
-
-[Splunk Integration](https://github.com/wks-sumo-logic/sumologic-splunk-inspector)
-
-*Miscellaneous*
-
-[General Toolbox](https://github.com/wks-sumo-logic/toolbox)
+| *Miscellaneous*                        |
+|:-------------------------------------- |
+| [General Toolbox](https://github.com/wks-sumo-logic/toolbox) |
 
 Dependencies
 ============
