@@ -27,7 +27,7 @@ List of Projects
 
 | *Miscellaneous*                        |
 |:-------------------------------------- |
-| [General Toolbox](https://github.com/wks-sumo-logic/toolbox) |
+| [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
 
 Dependencies
 ============
