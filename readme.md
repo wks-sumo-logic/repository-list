@@ -1,8 +1,10 @@
 General Project Listing
 =======================
 
-This is designed to be a launching point for different work I have done in 
-security, devops, specific programming languages, and thoughts on systems.
+Welcome to my github account for SumoLogic! 
+
+This repository contains links to a list of projects that I work on in 
+areas of DevOps, Security, Data Analytics, as well as Automation and Testing.
 
 List of Projects
 ================
@@ -27,6 +29,13 @@ Dependencies
 ============
 
 Each project will list the dependencies involved.
+
+Todos
+=====
+
+* Ansible Wrappers for Sumologic installation
+* Anvil based health check Wizard
+* QT based setup Wizard
 
 License
 =======
