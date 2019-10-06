@@ -1,10 +1,14 @@
-General Project Listing
-=======================
+Background and Introduction
+===========================
 
-Welcome to my github account for SumoLogic! 
+This is a curated list of projects I have created for Sumologic.
+In here, I have linked projects and organized them by the following:
 
-This repository contains links to a list of projects that I work on in 
-areas of DevOps, Security, Data Analytics, as well as Automation and Testing.
+* DevOps
+
+* Product Integration
+
+* Miscellaneous
 
 List of Projects
 ================
@@ -16,7 +20,7 @@ List of Projects
 | [SumoLogic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [Health Check Wrapper](https://github.com/wks-sumo-logic/sumologic-hcwrapper) |
 
-| *Production Integration*               |
+| *Product Integration*                  |
 |:-------------------------------------- |
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
 | [Splunk Integration](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
