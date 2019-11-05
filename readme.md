@@ -28,6 +28,7 @@ List of Projects
 | *Miscellaneous*                        |
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
+| [Mapdump](https://github.com/wks-sumo-logic/sumologic-mapdump) |
 
 Dependencies
 ============
