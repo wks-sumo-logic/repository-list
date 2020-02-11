@@ -29,6 +29,7 @@ List of Projects
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
 | [Mapdump](https://github.com/wks-sumo-logic/sumologic-mapdump) |
+| [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
 
 Dependencies
 ============
