@@ -28,7 +28,7 @@ List of Projects
 | *Miscellaneous*                        |
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
-| [Mapdump](https://github.com/wks-sumo-logic/sumologic-mapdump) |
+| [Glasscmd](https://github.com/wks-sumo-logic/sumologic-glasscmd) |
 | [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
 
 Dependencies
