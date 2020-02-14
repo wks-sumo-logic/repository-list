@@ -18,7 +18,7 @@ List of Projects
 | *DevOps Focus*                         |
 |:-------------------------------------- |
 | [SumoLogic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
-| [Health Check Wrapper](https://github.com/wks-sumo-logic/sumologic-hcwrapper) |
+| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/sumologic-checkup) |
 
 | *Product Integration*                  |
 |:-------------------------------------- |
