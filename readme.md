@@ -23,7 +23,7 @@ List of Projects
 | *Product Integration*                  |
 |:-------------------------------------- |
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
-| [Splunk Integration](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
+| [Splunk Integration](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
 
 | *Miscellaneous*                        |
 |:-------------------------------------- |
