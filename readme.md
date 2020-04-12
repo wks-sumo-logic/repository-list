@@ -24,6 +24,7 @@ List of Projects
 |:-------------------------------------- |
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
 | [Splunk Integration](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
+| [AWS SQS Queue reader](https://github.com/wks-sumo-logic/sqsimport) |
 
 | *Miscellaneous*                        |
 |:-------------------------------------- |
