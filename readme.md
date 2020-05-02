@@ -1,7 +1,7 @@
 Background and Introduction
 ===========================
 
-This is a curated list of projects I have created for Sumologic.
+This is a curated list of projects I have created for Sumo Logic.
 In here, I have linked projects and organized them by the following:
 
 * DevOps
@@ -17,8 +17,9 @@ List of Projects
 
 | *DevOps Focus*                         |
 |:-------------------------------------- |
-| [SumoLogic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
-| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/sumologic-checkup) |
+| [Sumo Logic  DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
+| [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
+| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
 
 | *Product Integration*                  |
 |:-------------------------------------- |
