@@ -13,8 +13,6 @@ In here, I have linked projects and organized them by the following:
 List of Projects
 ================
 
-          Suggested Settings for Individual Installed Collector Sources:
-
 | *DevOps Focus*                         |
 |:-------------------------------------- |
 | [Sumo Logic  DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
