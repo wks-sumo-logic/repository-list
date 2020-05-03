@@ -10,26 +10,31 @@ In here, I have linked projects and organized them by the following:
 
 * Miscellaneous
 
+*Sumo Logic Specific
+
 List of Projects
 ================
 
 | *DevOps Focus*                         |
 |:-------------------------------------- | 
-| [Sumo Logic  DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
+| [Sumo Logic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
-| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/cscheck-wrapper) |
 
 | *Product Integration*                  |
 |:-------------------------------------- |
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
 | [Splunk Integration](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
-| [AWS SQS Queue reader](https://github.com/wks-sumo-logic/sqsimport) |
+| [Crowdstrke AWS SQS Queue Integration ](https://github.com/wks-sumo-logic/sqsimport) |
 
 | *Miscellaneous*                        |
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
+
+| *Sumo Logic Specific*                  |
+|:-------------------------------------- |
 | [Glasscmd](https://github.com/wks-sumo-logic/sumologic-glasscmd) |
 | [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
+| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/cscheck-wrapper) |
 
 Dependencies
 ============
