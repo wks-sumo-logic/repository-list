@@ -10,7 +10,7 @@ In here, I have linked projects and organized them by the following:
 
 * Miscellaneous
 
-*Sumo Logic Specific
+* Sumo Logic Specific
 
 List of Projects
 ================
