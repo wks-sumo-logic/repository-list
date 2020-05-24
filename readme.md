@@ -12,6 +12,8 @@ In here, I have linked projects and organized them by the following:
 
 * Sumo Logic Specific
 
+* Platform Specific 
+
 List of Projects
 ================
 
@@ -19,6 +21,10 @@ List of Projects
 |:-------------------------------------- | 
 | [Sumo Logic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
+
+| *Platform Specific*                    |
+|:-------------------------------------- | 
+| [Google Publish](https://github.com/wks-sumo-logic/gpublish) |
 
 | *Product Integration*                  |
 |:-------------------------------------- |
