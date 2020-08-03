@@ -21,6 +21,7 @@ List of Projects
 |:-------------------------------------- | 
 | [Sumo Logic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
+| [Sumo Logic Data Doctor](https://github.com/wks-sumo-logic/sumologic_data_doctor) |
 
 | *Platform Specific*                    |
 |:-------------------------------------- | 
@@ -29,7 +30,7 @@ List of Projects
 | *Product Integration*                  |
 |:-------------------------------------- |
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
-| [Splunk Integration](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
+| [Splunk Collector](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
 | [Crowdstrke AWS SQS Queue Integration ](https://github.com/wks-sumo-logic/sqsimport) |
 
 | *Miscellaneous*                        |
