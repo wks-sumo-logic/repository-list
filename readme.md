@@ -22,6 +22,7 @@ List of Projects
 | [Sumo Logic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
 | [Sumo Logic Data Doctor](https://github.com/wks-sumo-logic/sumologic_data_doctor) |
+| [Sumo Logic Swagger Tools](https://github.com/wks-sumo-logic/sumologic-swaggertools) |
 
 | *Platform Specific*                    |
 |:-------------------------------------- | 
