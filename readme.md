@@ -38,7 +38,7 @@ List of Projects
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
 
-| *Sumo Logic Specific*                  |
+| *Sumo Logic Specific - [RESTRICTED]*   |
 |:-------------------------------------- |
 | [Glasscmd](https://github.com/wks-sumo-logic/sumologic-glasscmd) |
 | [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
