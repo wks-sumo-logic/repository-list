@@ -6,13 +6,13 @@ In here, I have linked projects and organized them by the following:
 
 * DevOps
 
+* Platform Specific 
+
 * Product Integration
 
 * Miscellaneous
 
 * Sumo Logic Specific
-
-* Platform Specific 
 
 List of Projects
 ================
@@ -43,6 +43,8 @@ List of Projects
 | [Glasscmd](https://github.com/wks-sumo-logic/sumologic-glasscmd) |
 | [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
 | [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/cscheck-wrapper) |
+| [Extended Health Checks](https://github.com/wks-sumo-logic/sumologic-checkup) |
+| [CS Plan Generator](https://github.com/wks-sumo-logic/csplan-generator) |
 
 Dependencies
 ============
