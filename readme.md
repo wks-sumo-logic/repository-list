@@ -37,6 +37,7 @@ List of Projects
 | *Miscellaneous*                        |
 |:-------------------------------------- |
 | [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
+| [Sumo Website Toolbox](https://github.com/wks-sumo-logic/sumologic-website-tools) |
 
 | *Sumo Logic Specific - [RESTRICTED]*   |
 |:-------------------------------------- |
