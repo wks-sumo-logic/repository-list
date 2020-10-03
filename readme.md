@@ -33,6 +33,7 @@ List of Projects
 | [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
 | [Splunk Collector](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
 | [Crowdstrke AWS SQS Queue Integration ](https://github.com/wks-sumo-logic/sqsimport) |
+| [Broadcom Log Download and staging](https://github.com/wks-sumo-logic/download_broadcom) |
 
 | *Miscellaneous*                        |
 |:-------------------------------------- |
