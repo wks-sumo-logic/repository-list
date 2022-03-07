@@ -27,6 +27,7 @@ List of Projects
 | [general-awsiptools](https://github.com/wks-sumo-logic/general-awsiptools) |
 | [general-jsanalyzer](https://github.com/wks-sumo-logic/general-jsanalyzer) |
 | [general-toolbox](https://github.com/wks-sumo-logic/general-toolbox) |
+| [github_listmyrepos](https://github.com/wks-sumo-logic/github_listmyrepos) |
 | [gpublish](https://github.com/wks-sumo-logic/gpublish) |
 | [msdoc-generator-examples](https://github.com/wks-sumo-logic/msdoc-generator-examples) |
 | [repository-list](https://github.com/wks-sumo-logic/repository-list) |
@@ -48,7 +49,6 @@ List of Projects
 | [sumologic-splunk-inspector](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
 | [sumologic-sqsimport](https://github.com/wks-sumo-logic/sumologic-sqsimport) |
 | [sumologic-swaggertools](https://github.com/wks-sumo-logic/sumologic-swaggertools) |
-| [sumologic-website-tools](https://github.com/wks-sumo-logic/sumologic-website-tools) |
 
 Dependencies
 ============
@@ -65,7 +65,7 @@ Todos
 License
 =======
 
-Copyright 2019 Wayne Kirk Schmidt
+Copyright 2019 -  Wayne Kirk Schmidt
 
 Licensed under the GNU GPL License (the "License");
 you may not use this file except in compliance with the License.
