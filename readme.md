@@ -17,36 +17,38 @@ In here, I have linked projects and organized them by the following:
 List of Projects
 ================
 
-| *DevOps Focus*                         |
+| *Complete List*                        |
 |:-------------------------------------- | 
-| [Sumo Logic DevOps CLI](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
-| [Sumo Logic Bash Collector Tools](https://github.com/wks-sumo-logic/sumocli-bash-collectors) |
-| [Sumo Logic Data Doctor](https://github.com/wks-sumo-logic/sumologic_data_doctor) |
-| [Sumo Logic Swagger Tools](https://github.com/wks-sumo-logic/sumologic-swaggertools) |
-
-| *Platform Specific*                    |
-|:-------------------------------------- | 
-| [Google Publish](https://github.com/wks-sumo-logic/gpublish) |
-
-| *Product Integration*                  |
-|:-------------------------------------- |
-| [Recorded Future Integration](https://github.com/wks-sumo-logic/sumologic-rfsync) |
-| [Splunk Collector](https://github.com/wks-sumo-logic/sumologic_splunk_inspector) |
-| [Crowdstrke AWS SQS Queue Integration ](https://github.com/wks-sumo-logic/sqsimport) |
-| [Broadcom Log Download and staging](https://github.com/wks-sumo-logic/download_broadcom) |
-
-| *Miscellaneous*                        |
-|:-------------------------------------- |
-| [General Toolbox](https://github.com/wks-sumo-logic/sample-toolbox) |
-| [Sumo Website Toolbox](https://github.com/wks-sumo-logic/sumologic-website-tools) |
-
-| *Sumo Logic Specific - [RESTRICTED]*   |
-|:-------------------------------------- |
-| [Glasscmd](https://github.com/wks-sumo-logic/sumologic-glasscmd) |
-| [Alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
-| [Health Checkup Wrapper ](https://github.com/wks-sumo-logic/cscheck-wrapper) |
-| [Extended Health Checks](https://github.com/wks-sumo-logic/sumologic-checkup) |
-| [CS Plan Generator](https://github.com/wks-sumo-logic/csplan-generator) |
+| [1password-downloader](https://github.com/wks-sumo-logic/1password-downloader) |
+| [broadcom-downloader](https://github.com/wks-sumo-logic/broadcom-downloader) |
+| [dropbox-downloader](https://github.com/wks-sumo-logic/dropbox-downloader) |
+| [emoji-tools](https://github.com/wks-sumo-logic/emoji-tools) |
+| [excelvba-exporter](https://github.com/wks-sumo-logic/excelvba-exporter) |
+| [general-awsiptools](https://github.com/wks-sumo-logic/general-awsiptools) |
+| [general-jsanalyzer](https://github.com/wks-sumo-logic/general-jsanalyzer) |
+| [general-toolbox](https://github.com/wks-sumo-logic/general-toolbox) |
+| [gpublish](https://github.com/wks-sumo-logic/gpublish) |
+| [msdoc-generator-examples](https://github.com/wks-sumo-logic/msdoc-generator-examples) |
+| [repository-list](https://github.com/wks-sumo-logic/repository-list) |
+| [sumologic-alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
+| [sumologic-badges](https://github.com/wks-sumo-logic/sumologic-badges) |
+| [sumologic-bash-collectors](https://github.com/wks-sumo-logic/sumologic-bash-collectors) |
+| [sumologic-batchtools](https://github.com/wks-sumo-logic/sumologic-batchtools) |
+| [sumologic-checkup](https://github.com/wks-sumo-logic/sumologic-checkup) |
+| [sumologic-cmdlets](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
+| [sumologic-contentmap](https://github.com/wks-sumo-logic/sumologic-contentmap) |
+| [sumologic-cscheck-wrapper](https://github.com/wks-sumo-logic/sumologic-cscheck-wrapper) |
+| [sumologic-dashboardexport](https://github.com/wks-sumo-logic/sumologic-dashboardexport) |
+| [sumologic-dashboardnews](https://github.com/wks-sumo-logic/sumologic-dashboardnews) |
+| [sumologic-librarian](https://github.com/wks-sumo-logic/sumologic-librarian) |
+| [sumologic-publisher](https://github.com/wks-sumo-logic/sumologic-publisher) |
+| [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
+| [sumologic-slackwebhook](https://github.com/wks-sumo-logic/sumologic-slackwebhook) |
+| [sumologic-spelunker](https://github.com/wks-sumo-logic/sumologic-spelunker) |
+| [sumologic-splunk-inspector](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
+| [sumologic-sqsimport](https://github.com/wks-sumo-logic/sumologic-sqsimport) |
+| [sumologic-swaggertools](https://github.com/wks-sumo-logic/sumologic-swaggertools) |
+| [sumologic-website-tools](https://github.com/wks-sumo-logic/sumologic-website-tools) |
 
 Dependencies
 ============
