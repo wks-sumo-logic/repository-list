@@ -32,23 +32,23 @@ List of Projects
 | [msdoc-generator-examples](https://github.com/wks-sumo-logic/msdoc-generator-examples) |
 | [repository-list](https://github.com/wks-sumo-logic/repository-list) |
 | [sumologic-alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
+| [sumologic-backup](https://github.com/wks-sumo-logic/sumologic-backup) |
 | [sumologic-badges](https://github.com/wks-sumo-logic/sumologic-badges) |
 | [sumologic-bash-collectors](https://github.com/wks-sumo-logic/sumologic-bash-collectors) |
 | [sumologic-batchtools](https://github.com/wks-sumo-logic/sumologic-batchtools) |
 | [sumologic-checkup](https://github.com/wks-sumo-logic/sumologic-checkup) |
 | [sumologic-cmdlets](https://github.com/wks-sumo-logic/sumologic-cmdlets) |
 | [sumologic-contentmap](https://github.com/wks-sumo-logic/sumologic-contentmap) |
+| [sumologic-createlookup](https://github.com/wks-sumo-logic/sumologic-createlookup) |
 | [sumologic-cscheck-wrapper](https://github.com/wks-sumo-logic/sumologic-cscheck-wrapper) |
 | [sumologic-dashboardexport](https://github.com/wks-sumo-logic/sumologic-dashboardexport) |
 | [sumologic-dashboardnews](https://github.com/wks-sumo-logic/sumologic-dashboardnews) |
+| [sumologic-importcontent](https://github.com/wks-sumo-logic/sumologic-importcontent) |
 | [sumologic-librarian](https://github.com/wks-sumo-logic/sumologic-librarian) |
 | [sumologic-publisher](https://github.com/wks-sumo-logic/sumologic-publisher) |
 | [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
 | [sumologic-slackwebhook](https://github.com/wks-sumo-logic/sumologic-slackwebhook) |
 | [sumologic-spelunker](https://github.com/wks-sumo-logic/sumologic-spelunker) |
-| [sumologic-splunk-inspector](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
-| [sumologic-sqsimport](https://github.com/wks-sumo-logic/sumologic-sqsimport) |
-| [sumologic-swaggertools](https://github.com/wks-sumo-logic/sumologic-swaggertools) |
 
 Dependencies
 ============
