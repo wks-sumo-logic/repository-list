@@ -52,7 +52,7 @@ List of Projects
 
 | *Sumo Logic Labs List*                 |
 |:-------------------------------------- | 
-| [sumologic-rsslsync](https://github.com/SumoLogic-Labs/sumologic-rfsync/)
+| [sumologic-recorded-future-integration](https://github.com/SumoLogic-Labs/sumologic-rfsync/)
 
 Dependencies
 ============
