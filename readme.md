@@ -17,7 +17,7 @@ In here, I have linked projects and organized them by the following:
 List of Projects
 ================
 
-| *Complete List*                        |
+| *Personal List*                        |
 |:-------------------------------------- | 
 | [1password-downloader](https://github.com/wks-sumo-logic/1password-downloader) |
 | [broadcom-downloader](https://github.com/wks-sumo-logic/broadcom-downloader) |
@@ -49,6 +49,10 @@ List of Projects
 | [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
 | [sumologic-slackwebhook](https://github.com/wks-sumo-logic/sumologic-slackwebhook) |
 | [sumologic-spelunker](https://github.com/wks-sumo-logic/sumologic-spelunker) |
+
+| *Sumo Logic Labs List*                 |
+|:-------------------------------------- | 
+| [sumologic-rsslsync](https://github.com/SumoLogic-Labs/sumologic-rfsync/)
 
 Dependencies
 ============
