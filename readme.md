@@ -1,8 +1,7 @@
 Background and Introduction
 ===========================
 
-This is a curated list of projects I have created for Sumo Logic.
-In here, I have linked projects and organized them by the following:
+This is a partial list of projects I have, that fall into the following categories
 
 * DevOps
 
@@ -58,13 +57,6 @@ Dependencies
 ============
 
 Each project will list the dependencies involved.
-
-Todos
-=====
-
-* Ansible Wrappers for Sumologic installation
-* Anvil based health check Wizard
-* QT based setup Wizard
 
 License
 =======
