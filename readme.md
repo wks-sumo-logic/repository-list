@@ -26,7 +26,7 @@ List of Projects
 | [general-awsiptools](https://github.com/wks-sumo-logic/general-awsiptools) |
 | [general-jsanalyzer](https://github.com/wks-sumo-logic/general-jsanalyzer) |
 | [general-toolbox](https://github.com/wks-sumo-logic/general-toolbox) |
-| [github_listmyrepos](https://github.com/wks-sumo-logic/github_listmyrepos) |
+| [repository-listmyrepos](https://github.com/wks-sumo-logic/repository-listmyrepos) |
 | [gpublish](https://github.com/wks-sumo-logic/gpublish) |
 | [msdoc-generator-examples](https://github.com/wks-sumo-logic/msdoc-generator-examples) |
 | [repository-list](https://github.com/wks-sumo-logic/repository-list) |
