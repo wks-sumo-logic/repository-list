@@ -18,6 +18,10 @@ List of Projects
 
 | *Personal List*                        |
 |:-------------------------------------- | 
+| [sumo-content-powershell](https://github.com/rjury-sumo/sumo-content-powershell) |
+| [sumo-dashboardexporter](https://github.com/rjury-sumo/sumo-dashboardexporter) |
+| [sumologic-public-partner-apps](https://github.com/SumoLogic/sumologic-public-partner-apps) |
+| [sumologic-rfsync](https://github.com/SumoLogic-Labs/sumologic-rfsync) |
 | [1password-downloader](https://github.com/wks-sumo-logic/1password-downloader) |
 | [broadcom-downloader](https://github.com/wks-sumo-logic/broadcom-downloader) |
 | [dropbox-downloader](https://github.com/wks-sumo-logic/dropbox-downloader) |
@@ -30,8 +34,6 @@ List of Projects
 | [msdoc-generator-examples](https://github.com/wks-sumo-logic/msdoc-generator-examples) |
 | [repository-list](https://github.com/wks-sumo-logic/repository-list) |
 | [repository-listmyrepos](https://github.com/wks-sumo-logic/repository-listmyrepos) |
-| [sumo-content-powershell](https://github.com/rjury-sumo/sumo-content-powershell) |
-| [sumo-dashboardexporter](https://github.com/rjury-sumo/sumo-dashboardexporter) |
 | [sumologic-alexandria](https://github.com/wks-sumo-logic/sumologic-alexandria) |
 | [sumologic-aws-lambda-soar-example](https://github.com/wks-sumo-logic/sumologic-aws-lambda-soar-example) |
 | [sumologic-backup](https://github.com/wks-sumo-logic/sumologic-backup) |
@@ -47,12 +49,12 @@ List of Projects
 | [sumologic-dashboardnews](https://github.com/wks-sumo-logic/sumologic-dashboardnews) |
 | [sumologic-importcontent](https://github.com/wks-sumo-logic/sumologic-importcontent) |
 | [sumologic-librarian](https://github.com/wks-sumo-logic/sumologic-librarian) |
-| [sumologic-public-partner-apps](https://github.com/SumoLogic/sumologic-public-partner-apps) |
 | [sumologic-publisher](https://github.com/wks-sumo-logic/sumologic-publisher) |
+| [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
 | [sumologic-query-checker](https://github.com/wks-sumo-logic/sumologic-query-checker) |
 | [sumologic-query-profiler](https://github.com/wks-sumo-logic/sumologic-query-profiler) |
-| [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
 | [sumologic-restore](https://github.com/wks-sumo-logic/sumologic-restore) |
+| [sumologic-savecfg](https://github.com/wks-sumo-logic/sumologic-savecfg) |
 | [sumologic-slackwebhook](https://github.com/wks-sumo-logic/sumologic-slackwebhook) |
 | [sumologic-spelunker](https://github.com/wks-sumo-logic/sumologic-spelunker) |
 | [sumologic-splunk-inspector](https://github.com/wks-sumo-logic/sumologic-splunk-inspector) |
