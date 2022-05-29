@@ -18,8 +18,6 @@ List of Projects
 
 | *Personal List*                        |
 |:-------------------------------------- | 
-| [sumologic-public-partner-apps](https://github.com/SumoLogic/sumologic-public-partner-apps) |
-| [sumologic-rfsync](https://github.com/SumoLogic-Labs/sumologic-rfsync) |
 | [1password-downloader](https://github.com/wks-sumo-logic/1password-downloader) |
 | [broadcom-downloader](https://github.com/wks-sumo-logic/broadcom-downloader) |
 | [dropbox-downloader](https://github.com/wks-sumo-logic/dropbox-downloader) |
