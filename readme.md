@@ -18,8 +18,6 @@ List of Projects
 
 | *Personal List*                        |
 |:-------------------------------------- | 
-| [sumo-content-powershell](https://github.com/rjury-sumo/sumo-content-powershell) |
-| [sumo-dashboardexporter](https://github.com/rjury-sumo/sumo-dashboardexporter) |
 | [sumologic-public-partner-apps](https://github.com/SumoLogic/sumologic-public-partner-apps) |
 | [sumologic-rfsync](https://github.com/SumoLogic-Labs/sumologic-rfsync) |
 | [1password-downloader](https://github.com/wks-sumo-logic/1password-downloader) |
