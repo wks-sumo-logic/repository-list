@@ -47,7 +47,7 @@ List of Projects
 | [sumologic-librarian](https://github.com/wks-sumo-logic/sumologic-librarian) |
 | [sumologic-publisher](https://github.com/wks-sumo-logic/sumologic-publisher) |
 | [sumologic-query](https://github.com/wks-sumo-logic/sumologic-query) |
-| [sumologic-query-checker](https://github.com/wks-sumo-logic/sumologic-query-checker) |
+| [sumologic-query-scribe](https://github.com/wks-sumo-logic/sumologic-query-scribe) |
 | [sumologic-query-profiler](https://github.com/wks-sumo-logic/sumologic-query-profiler) |
 | [sumologic-restore](https://github.com/wks-sumo-logic/sumologic-restore) |
 | [sumologic-savecfg](https://github.com/wks-sumo-logic/sumologic-savecfg) |
